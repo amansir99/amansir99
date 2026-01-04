@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hey there! 👋 I'm Aman
 
-<!--
-**amansir99/amansir99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-stack web developer | SaaS entrepreneur | AI & SEO specialist**
 
-Here are some ideas to get you started:
+I build scalable web applications and AI-powered SaaS products. Passionate about creating tools that solve real problems with clean code and great UX.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Do
+
+- **SaaS Products**: Building and scaling production-ready applications from idea to launch
+- **AI Integration**: Leveraging cutting-edge AI APIs (Gemini, Claude, OpenRouter) to power intelligent features
+- **Full-Stack Development**: Specializing in Next.js, TypeScript, and modern web technologies
+- **SEO & Growth**: Optimizing for search, domain authority, and organic user acquisition
+- **Automation**: Setting up efficient workflows with GitHub Actions, n8n, and cloud infrastructure
+
+---
+
+## 💻 Tech Stack
+
+**Frontend & Full-Stack:**
+- Next.js | TypeScript | React | Tailwind CSS
+- Vercel (preferred hosting)
+
+**Backend & Databases:**
+- Node.js | API Design
+- Supabase | PostgreSQL
+- Cloud Functions
+
+**AI & Tools:**
+- Gemini API | Claude | OpenRouter
+- TensorFlow.js | Web Technologies
+- LLM Integration & Prompt Engineering
+
+**DevOps & Automation:**
+- GitHub Actions | n8n | CI/CD
+- Google Cloud Services
+- Serverless Architecture
+
+---
+
+## 🏆 Featured Projects
+
+- **ResumeUnlocked** - ATS-friendly resume builder for job seekers
+- **AIToolSuite** - Comprehensive AI utilities for productivity
+- **TrustScan AI** - Blockchain-powered trust & verification system
+- **AnalyzeInfotech Tools** - SEO audit and analysis platform
+
+---
+
+## 📊 GitHub Stats
+
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amansir99&theme=dark&hide=stars&count_private=true)
+
+---
+
+## 🌐 Connect With Me
+
+- **LinkedIn**: [linkedin.com/in/amansir99](https://linkedin.com/in/amansir99)
+- **Twitter/X**: [@amansir99](https://twitter.com/amansir99)
+- **Website**: [resumeunlocked.com](https://resumeunlocked.com)
+- **Email**: amanmaurya55785@gmail.com
+
+---
+
+## 💡 Open to
+
+- Collaborating on innovative SaaS products
+- Freelance full-stack development projects
+- AI/ML integration consulting
+- Technical mentoring
+
+**Let's build something amazing together!** 🚀
