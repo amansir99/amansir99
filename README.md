@@ -58,7 +58,7 @@ I build scalable web applications and AI-powered SaaS products. Passionate about
 
 - **LinkedIn**: [linkedin.com/in/amansir99](https://linkedin.com/in/amansir99)
 - **Twitter/X**: [@amansir99](https://twitter.com/amansir99)
-- **Website**: [resumeunlocked.com](https://resumeunlocked.com)
+- **Website**: [resumeunlocked.vercel.app](https://resumeunlocked.vercel.app)
 - **Email**: amanmaurya55785@gmail.com
 
 ---
